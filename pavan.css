@@ -1,0 +1,58 @@
+body{
+margin: 0%;
+}
+.img1{position: relative;left: 20%;}
+.head{width: 100%;height:100px;background-color: white;border-bottom: 1px solid black;position: relative;position: fixed;z-index: 3;}
+i{font-size: 60px;color: black;}
+
+.iconm{position: absolute;right: 20%;top:18px;width: 60px;}
+.img2{background-image: url('https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701662829-1024x640.jpg');width: 80%;height: 650px;}
+
+.img2{margin-left:10%;opacity: 1;position: absolute;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+top:100px;}
+
+.next{position: relative;}
+.lines{
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top:45%;
+}
+
+.imgcenter{font-size: 60px;font-weight: bold;color:white;
+        font-family: avenir-lt-w01_85-heavy1475544,sans-serif;opacity: 1;
+    }
+.tagline{font-family:'Lucida Handwriting',cursive;color:white;font-size: 20px;}
+.whitediv{background-color:white;height: 40px;width: 100%;}
+.sclicons{position: fixed;right: 3%;top:50%;z-index: 3;color: brown;}
+.sclicons>i{font-size: 30px;}
+.projects{width: 100%;background-color:rgb(107, 99, 99);height: 400px;position: relative;top:181px;display: flex;flex-direction: row;justify-content: space-around;align-items: center;}
+.d1,.d2,.d3,.d4{position:relative;width: 200px;height: 300px;background-color: black;text-align:center;font-family:'Lucida Handwriting',cursive ;color: white;font-size: 20px;}
+.d1>p,.d2>p,.d3>p,.d4>p{position:absolute;top:120px;width: 200px;text-align: center;}
+.me{position: relative;top: 136px;width: 100%;height: 600px;background-color:white;}
+.txt{width: 40%;height: 500px;background-color: white;position: absolute;top:35px;left:100px;text-align: center;padding: 15px;font-family:'Lucida Handwriting',cursive ;}
+.txt>.txtp{text-align: justify;word-spacing: 3px;line-height: 34px;font-size: 15px;}
+.pic{width: 30%;height: 530px;background-color:white;position: absolute;top:35px;right:100px;}
+.imgpic{background-size: cover;
+    background-position: center;
+    background-attachment: fixed;}
+.lastbox{width: 80%;height:500px;background-color: rgb(161, 153, 153);margin-left: 10%;}
+.commenttext{font-family:'Lucida Handwriting',cursive ;color: white;font-size: 30px;}
+.comment{height: 300px;width: 300px;background-color: rgb(161, 153, 153);position: relative;top:105px;left:600px;}
+.textname,.email,.subject,.message{background-color: black;color: white;width:293px;}
+.textname,.email,.subject{height: 30px;}
+.message{height: 120px;}
+.button{height: 20px;background-color: black;color: white;}
+
+.commenttext{position: relative;top:60%;margin-left:30px;}
+footer{width: 100%;height: 50px;text-align: center;
+}
+.foot{padding: 10px;}
+#displymenu{background-color: black;width: 100%;height: 300px;position: relative;top:6px;z-index: 3;display: none;position: fixed;}
+.dsplybox{display: flex;position:absolute;top:40%;width: 100%;
+flex-direction: row;
+justify-content: space-around;}
+.dm{color: cornsilk;font-size: 20px;}
